@@ -1,0 +1,36 @@
+i nostri obiettivi:
+- per cliente: velocità servizio
+- per fornitore: risparmio nei costi
+- per noi: guadagno
+
+
+competitor: quick order   => vedere in che locali viene utilizzato
+
+
+da fuori il ristorante: i primi 5 più votati
+
+da dentro il ristorante: tutte le votazione, tutti i commenti.
+
+
+
+locali a cui ci proponiamo:
+ - discoteche (solo servizio al tavolo) con password che protegge i dati 
+ - bar
+ - BEFeD
+ - Galloway
+ - pub
+
+NO RISTORANTI DI UN "ALTO" LIVELLO => IN CASO SARA' UNA ESPANSIONE
+
+
+tenere il numero di clienti che hanno ordinato prima di te
+
+
+
+per utilizzare la nostra applicazione i livelli di ristoranti devono essere "bassi" o comunque il ristorante deve "abbandonare" i clienti 
+
+
+
+inizio= il mercato lo facciamo ristretto
+futuro= ampliarlo ai ristoranti(anche in asporto) e anche pizzerie d'asporto
+

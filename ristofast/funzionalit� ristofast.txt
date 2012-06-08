@@ -1,0 +1,25 @@
+applicazione utente:
+- consultazione menu (anche ordinati per valutazione utenti)
+- ordina prodotto //quantità, barra x testo alternativo (messo in area attesa x conferma dal cuoco)
+- descrzione cibo
+- immagine
+- votazione
+- visualizzazione voti (+geolocalizzazione, con top 5 prodotti più buoni)
+- pagamento: posso pagare subito(favorisce velocità) oppure al banco se è previsto dalla politica del locale
+- textarea per richiesta prodotti non presenti nel listino
+- quando un ordine da fare è accettato allora è possibile pagarlo
+- pagamento sul totale=insieme di ordinazioni
+- assegnazione avatar come passo iniziale
+_________________________________________________________________________
+applicazione gestore locale:
+- inserimento, modifica, cancellazione //prodotti listino
+- scelta modalità pagamento: insert/delete
+- cuoco accetta o meno TUTTI gli ordini
+- ordini personalizzati: passano al cuoco, se li accetta passa al gestore, se lui li accetta diciamo ok all'utente
+___________________________________________________________________________
+sito:
+- informazione prodotto (eventualmente anche sui costi per le aziende che lo usano)
+- download applicazione utente (gratis)
+- chi lo utilizza  (elenco completo dei locali che usano questo prodotto)
+- google adsense x guadagnare
+

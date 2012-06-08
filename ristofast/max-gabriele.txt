@@ -1,0 +1,8 @@
+TESTI DA SVILUPPARE:
+
+- cos'è risto fast - immagine + descrizione in 1 pagina
+- strumenti - che il gruppo usa x lavorare
+- storia del servizio - com'è nato, da chi...
+- funzionalità disponibili - con qualche immagine
+- novità e vantaggi del servizio
+- analisi delle operazioni tecniche richieste (dipende dal business model che adotteremo)

@@ -1,1 +1,55 @@
 Quì ci saranno i file per creare il documento da mandare al prof
+
+come lista dei capitoli ho tenuto quella di giacomo con piccole modifiche:
+
+sommario
+indice
+  ideazione e concezione
+    cos'è
+    perchè
+    chi
+  pianificazione del progetto
+    descrizione
+    risorse necessarie
+    figure professionali
+    informazioni
+    strumenti
+    organizzazione risosrse
+    pianificazione risorse
+    pianificazione oraria e costi 
+  analisi del servizio
+    storia
+    BM
+    funzionalità
+    novità e vantaggi
+    risultati del primo anno
+    nuovi sbocchi
+  materiale pubblicitario
+    volantino/filmino
+  analisi mercato
+    prodotti simili
+    bisogni
+    concorrenza diretta e analisi dei concorrenti
+    luoghi di acquisto
+    conclusioni sull'analisi
+    conclusioni generali
+  analisi utenti
+    sondaggio tra gli utilizzatori (dipendenti)
+    sondaggio tra gli utilizzatori (clienti)
+    sondaggio tra gli utilizzatori (cuoco/dirigente)
+  proposte BM
+    idea 1
+    idea 2
+    idea 3
+    idea 4
+...
+  Analisi del BM scelto (2b / 2c / 2b2c...)
+    motivo
+    descrizione dettagliata
+    analisi dei guadagni
+    analisi tecnica
+  Marketing
+    promozione servizio
+  Prospetto riassuntivo BM
+    analisi numerica dettagliata di ogni aspetto con breaking point
+  Consuntivo e valutazione dei costi e tempi di progetto

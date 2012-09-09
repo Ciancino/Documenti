@@ -63,16 +63,144 @@
 Analisi degli utenti
 \end_layout
 
+\begin_layout Standard
+Gli utenti che utilizzeranno RistoFast si suddividono in più categorie:
+\end_layout
+
+\begin_layout Itemize
+Titolari dei locali 
+\end_layout
+
+\begin_layout Itemize
+Dipendenti 
+\end_layout
+
+\begin_layout Itemize
+Clienti dei locali 
+\end_layout
+
+\begin_layout Standard
+È stato effettuato un sondaggio tra le varie categorie di utenti, e le questioni
+ trattate erano diverse per ogni categoria, per cercare di capire se realmente
+ RistoFast soddisfa l’utenza oppure no.
+ I risultati che sono venuti fuori sono molto omogenei.
+ Chi si è occupato dei sondaggi, per quanto riguarda i titolari e i dipendenti,
+ è andato di locale in locale per poter esporre l’idea del RistoFast durante
+ le ore che precedono il servizio, dunque nel momento di preparazione del
+ locale, mentre i sondaggi destinati alla clientela, sono stati fatti proprio
+ durante i servizi sia del pranzo, sia della sera.
+ Inizialmente abbiamo fatto i sondaggi a tutti i tipi di ristoranti (di
+ pesce, di carne e semplici pizzerie).
+ 
+\end_layout
+
 \begin_layout Subsection
 sondaggio tra gli utilizzatori (clienti)
 \end_layout
 
+\begin_layout Standard
+I clienti si possono dividere due in categorie: i lavoratori e i non-lavoratori.
+ 
+\end_layout
+
+\begin_layout Standard
+La prima categoria la si riscontra soprattutto a pranzo, mentre la seconda
+ la si trova alla sera.
+ Quello che ci ha colpito di più è che tutti i tipi di clientela, gli anziani
+ ma anche i giovani, hanno una specie di “timore” di questa applicazione.
+ Infatti temono di essere abbandonati dai camerieri e di dover fare tutto
+ da soli, mentre lo scopo principale dell’applicazione è proprio quello
+ di riuscire a seguirli di più per le cose principali.
+ Le persone più entusiaste sono state quelle che rientrano nella categoria
+ “lavoratori”: infatti, poiché hanno un lasso di tempo ristretto come pausa
+ pranzo sono disposti ad ordinare tramite l’applicazione pur di avere un
+ servizio più veloce, e dunque avere più tempo per mangiare.
+ Le persone che rientrano nella categoria “non lavoratori” sono meno propense
+ a utilizzare RistoFast poiché si sentirebbero abbandonate.
+ Questa categoria ha fatto ridurre i locali a cui proporre RistoFast, e
+ di concentrarci maggiormente su locali dove comunque il cliente è già “abbandon
+ato a se stesso”.
+ Alcuni di questi sarebbero, ad esempio, i punti di ristoro all’interno
+ dei centri commerciali o ristoranti che hanno molti lavoratori che vanno
+ a pranzare durante la pausa pranzo.
+ Altri locali a cui potrebbe interessare maggiormente l’utilizzo del RistoFast
+ sono locali tipi BEFeD, oppure il Galloway, i pub, e addirittura le discoteche
+ per il servizio al tavolo.
+ Dunque i locali che apprezzano maggiormente il RistoFast sono locali “alla
+ mano”, comunque non si esclude di poterlo espandere anche alla ristorazione
+ di alto livello 
+\end_layout
+
 \begin_layout Subsection
-sondaggio tra gli utilizzatori (cuoco/dirigente)
+sondaggio tra gli utilizzatori (titolari)
+\end_layout
+
+\begin_layout Standard
+I titolari hanno evidenziato subito i pro e i contro.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Contro: 
+\end_layout
+
+\begin_layout Itemize
+il prezzo dell’impianto 
+\end_layout
+
+\begin_layout Itemize
+non tutti i clienti sono in grado di utilizzare certe tecnologie
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Pro: 
+\end_layout
+
+\begin_layout Itemize
+dipendenti in meno (almeno uno) 
+\end_layout
+
+\begin_layout Itemize
+rischi di perdere/sbagliare le ordinazioni ridotti, dunque la responsabilità
+ dell’ordinazione è completamente del cliente 
 \end_layout
 
 \begin_layout Subsection
 sondaggio tra gli utilizzatori (dipendenti)
+\end_layout
+
+\begin_layout Standard
+I dipendenti hanno riscontrato molti più vantaggi che contro:
+\end_layout
+
+\begin_layout Itemize
+Non “perderebbero” più tempo a fare le ordinazioni 
+\end_layout
+
+\begin_layout Itemize
+I piatti e le bibite sarebbero subito portate ai tavoli.
+ 
+\end_layout
+
+\begin_layout Itemize
+Non avrebbero più la responsabilità per le ordinazioni sbagliate 
+\end_layout
+
+\begin_layout Itemize
+Ci sarebbero meno errori nelle ordinazioni.
+ 
+\end_layout
+
+\begin_layout Itemize
+Le persone sanno sempre quante persone hanno prenotato prima di loro, dunque
+ non bloccano i camerieri per andarsi ad informare 
+\end_layout
+
+\begin_layout Itemize
+Nessuno riscontrerebbe il problema di leggere le accomande degli altri colleghi
+ 
 \end_layout
 
 \end_body

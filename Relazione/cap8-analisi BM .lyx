@@ -76,7 +76,246 @@ analisi dei guadagni
 \end_layout
 
 \begin_layout Subsection
-analisi tecnica
+Analisi Tecnica
+\end_layout
+
+\begin_layout Standard
+L'applicativo si svilupperà su quattro fronti, cliente, cucina, amministrazione
+ del ristorante e web.
+\end_layout
+
+\begin_layout Standard
+Prendendo in esame le varie tipologie di tecnologie da utilizzare per i
+ tre tipi di utenza, occorrerà avere sicuramente un server con una gestione
+ visiva degli ordini per il lato amministrativo.
+ In questo modo il banco del ristorante saprà sempre che ordini sono stati
+ effettuati, in che tavolo e se sono stati o meno evasi.
+ 
+\end_layout
+
+\begin_layout Standard
+I clienti del ristorante invece avranno varie opportunità per creare in
+ modo corretto i vari ordini.
+ Le possibilità sono tre:
+\end_layout
+
+\begin_layout Itemize
+Tramite il normale contatto umano cliente - cameriere.
+ 
+\end_layout
+
+\begin_layout Itemize
+Usufruendo dei dispositivi (tablet) installati nel tavolo.
+\end_layout
+
+\begin_layout Itemize
+Scaricando l'applicazione per il proprio dispositivo mobile e utilizzandola
+ per gestire gli ordini.
+\end_layout
+
+\begin_layout Standard
+A questo punto sorge un problema, infatti per quanto riguarda il normale
+ sistema di prelievo delle accomande (quello tramite il contatto umano),
+ i camerieri saranno dotati di un dispositivo che richiederà l'inserimento
+ del tavolo prima di poter inserire gli ordini; invece i tablet avranno
+ già inserito al loro interno il numero del tavolo in quanto questi saranno
+ fissati sul tavolo con al loro fianco una piccola stampante.
+\end_layout
+
+\begin_layout Standard
+Il problema si verifica quando andiamo ad analizzare l'applicazione scaricata,
+ perché potremmo agire in due modi, chiedendo, come per quello mobile dei
+ camerieri, il numero del tavolo, oppure utilizzando dei sensori di domotica
+ e telerilevamento che individuano l'origine di un segnale e lo associano
+ ad una posizione geografica prestabilita, quindi ad un tavolo.
+\end_layout
+
+\begin_layout Standard
+Questa opzione merita di essere valutata attentamente nella parte che riguarda
+ i costi finali del prodotto, poiché per installare la stazione di rilevamento
+ occorre un tecnico specializzato e delle tecnologie un po' esose.
+\end_layout
+
+\begin_layout Standard
+Per quanto riguarda invece la parte della gestione degli ordini in cucina,
+ le tecnologie necessarie saranno solamente quelle che riguardano la parte
+ di visualizzazione degli ordini ed eventualmente un rifiuto di un ordine
+ se non è possibile effettuarlo, quindi presumibilmente anche qui un tablet
+ magari protetto da qualche confezione di plastica per evitare che si sporchi
+ o che finisca fuori uso per qualsiasi motivo.
+ 
+\end_layout
+
+\begin_layout Standard
+Il web invece viene preso in considerazione per due motivi:
+\end_layout
+
+\begin_layout Itemize
+promuovere il progetto
+\end_layout
+
+\begin_layout Itemize
+scaricare l'applicazione
+\end_layout
+
+\begin_layout Standard
+infatti, il sito conterrà tutte le specifiche tecniche del progetto e tutti
+ i dati ad esso relativi.
+ In aggiunta, vi saranno anche le aree per i ristoratori, visto che è previsto
+ un contributo per i ristoratori che decidono di avvalersi del sistema RistoFast
+ mentre l'applicazione per i clienti, sarà scaricabile automaticamente dal
+ sito oltre che dai vari market ufficiali.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Gestione ordini: banco
+\end_layout
+
+\begin_layout Standard
+Scendiamo ora nel dettaglio della gestione degli ordini per il lato amministrazi
+one / banco.
+\end_layout
+
+\begin_layout Standard
+L'applicazione server prenderà i vari ordini dai dispositivi mobili in possesso
+ dai clienti, dal personale o dai tavoli.
+ Una volta accettati, li salverà su di un database interno in modo da gestire
+ in modo corretto tutte le ordinazioni di quel tavolo in tutta la giornata.
+ Quindi invierà una notifica al banco con l'ordine effettuato e l'ordine
+ vero e proprio in cucina.
+ Nel caso in cui la cucina rifiutasse l'ordine in qualche sua parte, sarà
+ compito dell'applicativo server inviare un avviso al banco e al cliente
+ di modifica del piatto.
+ Il cliente potrà modificare la accomanda e rinviarla fino a che la sua
+ richiesta non può essere accettata.
+ Una volta invece che la accomanda, nel suo intero, è stata accettata, viene
+ passata al banco dove in ogni momento potrà essere stampato lo scontrino
+ o la fattura.
+ 
+\end_layout
+
+\begin_layout Standard
+Dal banco inoltre sarà possibile modificare in ogni momento le pietanze
+ ordinate (per prevenire ogni disguido relativo ad una mancata corretta
+ consegna dei piatti) o effettuare sconti o ancora visualizzare le statistiche
+ relative alle singole pietanze e al ristorante.
+\end_layout
+
+\begin_layout Subsubsection
+Gestione ordini: cucina
+\end_layout
+
+\begin_layout Standard
+La gestione degli ordini della cucina sarà il più semplice possibile in
+ quanto la cucina deve cucinare e non giocare con tablet.
+\end_layout
+
+\begin_layout Standard
+Infatti, la cucina visualizzerà gli ordini in arrivo e quelli da effettuare.
+ 
+\end_layout
+
+\begin_layout Standard
+Nel caso che la cucina non riesca ad evadere un ordine in qualche sua parte,
+ con semplici click sulla parte errata, sarà possibile avvisare il cliente
+ in quali parti l'ordine non è stato accettato così che il cliente possa
+ modificare l'ordine.
+\end_layout
+
+\begin_layout Standard
+Una volta che l'ordine è stato accettato verrà immesso in una lista che
+ si modifica in automatico a seconda di quanto una persona sta aspettando
+ e dando priorità alle persone che portano via il cibo al posto di quelle
+ al tavolo, o viceversa, a seconda della politica del ristorante.
+ 
+\end_layout
+
+\begin_layout Standard
+Quindi una volta che l'ordine è stato invece effettuato, quest'ultimo verrà
+ inserito come ordine evaso (in modo che il cliente possa controllare lo
+ stato dell'ordine), inviandolo al banco, e verrà immediatamente sostituito
+ dal successivo.
+\end_layout
+
+\begin_layout Subsubsection
+Gestione ordini: cliente
+\end_layout
+
+\begin_layout Standard
+Il cliente avrà quindi tre possibilità per ordinare.
+ 
+\end_layout
+
+\begin_layout Standard
+Pendendo in considerazione l'ordine effettuato dai camerieri (quindi senza
+ l'effettivo utilizzo di RistoFast da parte del cliente), l'ordinazione
+ viene gestita come una qualsiasi altra ordinazione normale effettuata al
+ giorno d'oggi, quindi con un contatto umano e una ordinazione lenta.
+\end_layout
+
+\begin_layout Standard
+L'efficienza cambia se invece prendiamo in cosiderazione la gestione degli
+ ordini via tablet o via applicativo.
+\end_layout
+
+\begin_layout Standard
+Partendo da quella via tablet, vi sarà il menù del ristorante e una volta
+ selezionata la pietanza si potrà indicare il numero di persone che hanno
+ ordinato quella pietanza, potendo specificare eventuali aggiunte o rimozioni
+ da effettuare all'ordine.
+ In seguito l'ordine verrà inviato al server del ristorante che si occuperà
+ di inoltrarlo alla cucina.
+ Nel caso l'ordine venisse rifiutato completamente o in qualche sua parte,
+ verrà segnalato sul tablet cosicché i clienti possano modificarlo.
+ Sempre sul tavolo, si troverà anche una stampante dalla quale, si potrà
+ ottenere il conto tramite scontrino fiscale oppure tramite fatturazione
+ con una richiesta di conferma da parte del banco.
+ 
+\end_layout
+
+\begin_layout Standard
+In modo simile ma diverso, invece, l'applicativo scaricabile per i dispositivi
+ personali, opera gestendo non solo gli ordini, ma anche tutta la parte
+ di valutazione, ricerca e menù.
+\end_layout
+
+\begin_layout Standard
+Analizzandole nel dettaglio, i menù vengono gestiti dall'applicativo e scaricati
+ solo quando l'utente entra nel ristorante.
+ Una volta che è stato scaricato, il menù resta residente nella applicazione,
+ quindi può essere visualizzato ovunque comprese le valutazioni per singoli
+ piatti, e viene sostituito solo in caso di aggiornamenti allo stesso.
+\begin_inset Newline newline
+\end_inset
+
+Per quanto riguarda, invece, la ricerca, ci sono vari criteri su cui è possibile
+ effettuarla.
+ In primo luogo vi è la ricerca per luoghi vicini a se.
+ Infatti utilizzando le moderne tecnologie di gps e rilevamento satellitare,
+ vi sarà la possibilità di cercare i ristoranti che utilizzano questo sistema
+ vicini a dove ci si trova, o quelli dove si mangia meglio, o ancora quelli
+ col servizio più veloce.
+ Il tutto unito ai dettagli dei primi tre piatti, denominati 
+\begin_inset Quotes eld
+\end_inset
+
+I migliori
+\begin_inset Quotes erd
+\end_inset
+
+, che il ristorante in questione ha da offrire.
+ 
+\begin_inset Newline newline
+\end_inset
+
+In ultima, vi sono appunto le votazioni dei piatti, attivabili solo una
+ volta che si ha chiesto il conto, e che richiedono ad ogni persona un voto.
+ espresso in stelle, con cui indicare dapprima la qualità del piatto ordinato,
+ e in seguito il servizio del ristorante, così da valutare sia il ristorante
+ che i piatti offerti.
+ Ovviamente questa votazione è soggetta a critiche soggettive, le quali
+ sono, a volte, inaffidabili.
 \end_layout
 
 \end_body

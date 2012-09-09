@@ -1,0 +1,75 @@
+\date{}
+\usepackage[latin9]{inputenc}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{ucs}
+\usepackage{lastpage}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\rhead{\doctitle \versiondoc - \Ciancino}
+\lhead{\setlength{\unitlength}{1mm}
+	\begin{picture}(0,0)
+		\put(5,0){\includegraphics[scale=0.1]{img/LogoTeam.jpg}}
+	\end{picture}}
+\cfoot{\thepage\ di \pageref{LastPage}}
+
+%%Comandi particolari per i nomi delle figure. Chiamare come una funzione LaTeX
+\newcommand{\Ciancino}{\emph{Ciancino }}
+\newcommand{\respProg}{\emph{Responsabile di Progetto }}
+\newcommand{\ammProg}{\emph{Amministratore di Progetto }}
+\newcommand{\analProg}{\emph{Analista }}
+\newcommand{\verifProg}{\emph{Verificatore }}
+\newcommand{\programProg}{\emph{Programmatore }}
+\newcommand{\progetProg}{\emph{Progettista }}
+\newcommand{\proponProg}{\emph{Proponente }}
+\newcommand{\commitProg}{\emph{Committente }}
+\newcommand{\commProg}{\emph{Prof. Filippo Giraldo}}
+\newcommand{\nameproject}{\emph{Progetto RistoFast }}
+
+%%DA QUI IN POI POTETE MODIFICARE
+
+%% INSERIRE QUI IL NOME DEL DOCUMENTO (INSERITE SEMPRE UNO SPAZIO ALLA FINE DEL NOME)
+\newcommand{\doctitle}{Progetto RistoFast }
+
+%% INSERIRE QUI LA VERSIONE ATTUALE DEL DOCUMENTO (INSERITE SEMPRE UNO SPAZIO ALLA FINE DELLA VERSIONE)
+\newcommand{\versiondoc}{V1.0 }
+
+%%INSERITE QUI LA DATA DI COMPILAZIONE FINALE DEL DOCUMENTO
+\newcommand{\datared}{11/09/2012}
+
+%%INSERIRE QUI IL/I REDATTORI
+\newcommand{\redattore}{\begin{itemize}
+\item Giacomo Bain
+\item Marco Begolo
+\item Massimo Dalla Pietà
+\item Gabriele Facchin
+\item Massimiliano Facciolo
+\item Jessica Gavagnin
+\item Pardis Zohouri H
+\end{itemize}}
+
+
+%%INSERIRE LA TIPOLOGIA DI USO DEL DOCUMENTO [Interno/Esterno]
+\newcommand{\usodoc}{Esterno}
+
+%%INSERIRE LA LISTA DI DISTRIBUZIONE DEL DOCUMENTO
+\newcommand{\listadistr}{\begin{itemize}
+\item \Ciancino
+\item \commProg
+\end{itemize}}
+
+%%INSERIRE IL SOMMARIO DEL DOCUMENTO
+\newcommand{\testosommario}{Questo documento descrive il risultato dell'analisi di mercato, i Business Model relativa al progetto \nameproject redatto dal gruppo \Ciancino per il corso di Gestione di Progetti.}
+

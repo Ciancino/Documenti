@@ -286,6 +286,9 @@ Analizzandole nel dettaglio, i menù vengono gestiti dall'applicativo e scaricat
  Una volta che è stato scaricato, il menù resta residente nella applicazione,
  quindi può essere visualizzato ovunque comprese le valutazioni per singoli
  piatti, e viene sostituito solo in caso di aggiornamenti allo stesso.
+ All'interno del menù inoltre, sarà possibile visualizzare i dettagli tipo
+ la composizione del piatto, la provenienza degli ingredienti ed eventuali
+ certificati degli alimenti.
 \begin_inset Newline newline
 \end_inset
 

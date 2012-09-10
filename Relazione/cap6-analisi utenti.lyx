@@ -95,7 +95,7 @@ Clienti dei locali
 \end_layout
 
 \begin_layout Subsection
-sondaggio tra gli utilizzatori (clienti)
+sondaggio tra gli utilizzatori: clienti
 \end_layout
 
 \begin_layout Standard
@@ -111,11 +111,17 @@ La prima categoria la si riscontra soprattutto a pranzo, mentre la seconda
  Infatti temono di essere abbandonati dai camerieri e di dover fare tutto
  da soli, mentre lo scopo principale dell’applicazione è proprio quello
  di riuscire a seguirli di più per le cose principali.
- Le persone più entusiaste sono state quelle che rientrano nella categoria
+\end_layout
+
+\begin_layout Standard
+Le persone più entusiaste sono state quelle che rientrano nella categoria
  “lavoratori”: infatti, poiché hanno un lasso di tempo ristretto come pausa
  pranzo sono disposti ad ordinare tramite l’applicazione pur di avere un
  servizio più veloce, e dunque avere più tempo per mangiare.
- Le persone che rientrano nella categoria “non lavoratori” sono meno propense
+\end_layout
+
+\begin_layout Standard
+Le persone che rientrano nella categoria “non lavoratori” sono meno propense
  a utilizzare RistoFast poiché si sentirebbero abbandonate.
  Questa categoria ha fatto ridurre i locali a cui proporre RistoFast, e
  di concentrarci maggiormente su locali dove comunque il cliente è già “abbandon
@@ -128,11 +134,11 @@ ato a se stesso”.
  per il servizio al tavolo.
  Dunque i locali che apprezzano maggiormente il RistoFast sono locali “alla
  mano”, comunque non si esclude di poterlo espandere anche alla ristorazione
- di alto livello 
+ di alto livello.
 \end_layout
 
 \begin_layout Subsection
-sondaggio tra gli utilizzatori (titolari)
+sondaggio tra gli utilizzatori: titolari
 \end_layout
 
 \begin_layout Standard
@@ -140,67 +146,54 @@ I titolari hanno evidenziato subito i pro e i contro.
  
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Contro: 
-\end_layout
-
-\begin_layout Itemize
-il prezzo dell’impianto 
-\end_layout
-
-\begin_layout Itemize
-non tutti i clienti sono in grado di utilizzare certe tecnologie
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Pro: 
-\end_layout
-
-\begin_layout Itemize
-dipendenti in meno (almeno uno) 
-\end_layout
-
-\begin_layout Itemize
-rischi di perdere/sbagliare le ordinazioni ridotti, dunque la responsabilità
- dell’ordinazione è completamente del cliente 
-\end_layout
-
-\begin_layout Subsection
-sondaggio tra gli utilizzatori (dipendenti)
+\begin_layout Standard
+Gli svantaggi sottolineati sono il prezzo dell'impianto e dei tablet, e
+ il fatto che non tutti i clienti sono in grado di utilizzare certe tecnologie
+ (basti pensare alle persone anziane).
+ Un altro svantaggio è che si potrebbe dare ai clienti l'impressione di
+ abbandono, dunque di non essere seguiti dal personale del locale.
 \end_layout
 
 \begin_layout Standard
-I dipendenti hanno riscontrato molti più vantaggi che contro:
+I vantaggi riscontrati sono di un calo di errori di ordinazioni da parte
+ dei camerieri, dovute ad incomprensioni di varia natura, e pure il rischio
+ di poter perdere una ordinazione cala notevolmente.
+ Inoltre il costo dell'impianto, essendo rateale, sarebbe compensato da
+ una piccola riduzione del personale (di solito occorrono almeno 2 camerieri
+ per sala, di cui uno che raccoglie le ordinazioni).
 \end_layout
 
-\begin_layout Itemize
-Non “perderebbero” più tempo a fare le ordinazioni 
+\begin_layout Subsection
+sondaggio tra gli utilizzatori: dipendenti
 \end_layout
 
-\begin_layout Itemize
-I piatti e le bibite sarebbero subito portate ai tavoli.
- 
+\begin_layout Standard
+I dipendenti hanno riscontrato più aspetti positivi che negativi.
 \end_layout
 
-\begin_layout Itemize
-Non avrebbero più la responsabilità per le ordinazioni sbagliate 
-\end_layout
+\begin_layout Standard
+Il servizio sarebbe più veloce, poichè il cliente non 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Itemize
-Ci sarebbero meno errori nelle ordinazioni.
- 
-\end_layout
+interromperebbe
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Itemize
-Le persone sanno sempre quante persone hanno prenotato prima di loro, dunque
- non bloccano i camerieri per andarsi ad informare 
-\end_layout
-
-\begin_layout Itemize
-Nessuno riscontrerebbe il problema di leggere le accomande degli altri colleghi
- 
+ il cameriere per chiedergli, ad esempio, quanto tempo deve aspettare le
+ pietanze che ha ordinato, le bibite arriverebbero poco dopo l'ordinazione,
+ e le pietanze non rischierebbero di essere consegnate fredde ai tavoli.
+ Inoltre capita molto spesso che la clientela voglia ordinare nonostante
+ non abbia deciso, intrattenendo così il cameriere per un lasso di tempo
+ non indifferente, e bloccando così il lavoro di tutti.
+ Questa applicazione tende a congelare queste situazioni, agevolando i camerieri
+ poichè questi saranno chiamati per informazioni riguardanti al menu, ma
+ il loro lavoro non verrà più intralciato.
+ Un grande problema di comprensione tra colleghi verrebbe risolto, come
+ la difficoltà di interpretare la scrittura di qualche collega, e le abbreviazio
+ni che cambiano da persona a persona.
+ Inoltre ci sarebbero molti meno errori nelle ordinazioni, e, in caso di
+ errore nell'ordinazione è a responsabilità del cliente.
 \end_layout
 
 \end_body
